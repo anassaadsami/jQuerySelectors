@@ -1,0 +1,28 @@
+.me , .children  {
+    background-color: aqua;
+}
+
+.mt {
+    background-color: chocolate;
+    width: 100px;
+    height: 100px;
+}
+ul li{
+    background-color: blueviolet;
+    list-style-type: circle;
+    list-style-position: inside;
+    /* or together */
+    /* list-style: inside square; */
+}
+.colors {
+    background-color: blue;
+}
+.links {
+    background-color: cornflowerblue;
+    margin-top: 10px;
+}
+
+.links a{
+    background-color: chartreuse;
+    display: block;
+}
